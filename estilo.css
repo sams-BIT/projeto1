@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    margin: 20px;
+    width:0px;
+    border-radius: 90px;
+    background-color: #111010;
+    color:azure;
+    border: 10px solid #111010;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+a:hover{
+    background-color: #ac7474;
+    border: 10px solid #ac7474;
+}
+
+
+.conteudo{
+    background-image: url(../imagens_dos_deuses/hestiacon.jpg);
+    background-size: cover;
+    text-align: center;
+    color: aliceblue;
+    width: 100%;
+    height: 101vh;
+    text-align: center;
+    
+}
+
+  footer{
+    height: 10vh;
+    right: 45%;
+    text-align: center;
+    padding-top: 40px;
+    color: aliceblue;
+    position:relative;
+    bottom: 1%;
+    height: 3%;
+    width: 100%;
+    left: 1%;
+    padding: 0%;
+    background-color: #111010;
+    margin: 0%
+  }
+
+#cabeçalho{
+    background-color: #e0dddd;
+    height: 94px;
+
+}
+
+
+
+p{
+    text-align: justify;
+    display: block;
+    margin-left: 110px;
+    font-size:x-large;
+ }
+
+
+ h1{
+    margin-bottom: 15px;
+    text-align: justify;
+    margin-left: 150px;
+    margin-top: 17px;
+    font-size: xx-large;
+ }
+ 
+ ul{
+    text-align: justify;
+    display: block;
+    margin-left: 110px;
+    font-size:x-large;
+}
+
+ .curios{
+    margin-top: 60px;
+    margin-bottom: 10px;
+ }
+
+ ol{
+    text-align: justify;
+    display: block;
+    margin-left: 110px;
+    font-size:x-large;
+    margin-bottom: 90px;
+ }
+ li{
+    text-align: justify;
+    display: block;
+    margin-left: 110px;
+    font-size:x-large;
+    margin-bottom: 15px;
+ }
+
+ 
+body{
+    background-color: #e0dddd;
+}
+
+
+
+
+h2{
+    margin-bottom: 15px;
+    text-align: justify;
+    margin-left: 150px;
+    margin-top: 17px;
+    font-size: xx-large;
+ }
+
+ H6{
+    color: #111010;
+ }
+
+ table{
+    text-align: center;
+    margin-left: 500px;
+    font-size: xx-large;
+    color: yellow;
+ }
+
+ 
